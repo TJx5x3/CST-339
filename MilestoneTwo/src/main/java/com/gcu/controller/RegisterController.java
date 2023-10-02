@@ -52,7 +52,6 @@ public class RegisterController {
 			model.addAttribute("title", "Registration Form");
 			return "register";
 		}
-		
 		// Process registration logic and redirect to home view for signed-in users
 		model.addAttribute("message", "Test Message");
 		return "home/homeSignedIn";
