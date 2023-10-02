@@ -39,10 +39,10 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.gcu</groupId>
-			<artifactId>topic2-2</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+    <groupId>jakarta.validation</groupId>
+    <artifactId>jakarta.validation-api</artifactId>
+    </dependency>
+
 	</dependencies>
 
 	<build>
